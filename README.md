@@ -1,4 +1,4 @@
-##SB_REST
+## SB_REST
 
 ### Docker
 `docker build -t sb_rest .`
